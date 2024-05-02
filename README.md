@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Projeto EBOOK Gerado por I.A.s
 
-<a href="https://github.com/LabDevOps09/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20python%20Ebook.pptx" title="View PDF now"> 📕Clique aqui para ler</a>
+[Ebook.pptx](https://github.com/LabDevOps09/LabDevOps09/files/15190287/Ebook.pptx) 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -75,4 +75,5 @@ Midjourney：
 ## 🛠️ Instruções de execução
 
 Utilizei os prompts acima , nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos power point, libreoffice , indesign para diagramação.
+
 
