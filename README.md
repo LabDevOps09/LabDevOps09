@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Projeto EBOOK Gerado por I.A.s
 
-<a href="https://github.com/LabDeOps09/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook.pptx" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/LabDevOps09/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20python%20Ebook.pptx" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -52,7 +52,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema Códigos Python , o ebookk é do nicho de programação , o título deve ser épico e curto, e tenha uma temática de mistério no título , me liste 4 variações de títulos                                                        |
+|  título  | Crie um título de um ebook sobre o tema Códigos Python , o ebook é sobre programação , o título deve ser épico e curto, e tenha uma temática de mistério no título , me liste 4 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook , com foco em primeiros comandos de Python, listando e dando exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
