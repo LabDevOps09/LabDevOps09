@@ -35,3 +35,44 @@
 LabDevOps09/LabDevOps09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Projeto EBOOK Gerado por I.A.s
+
+<a href="https://github.com/LabDeOps09/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook.pptx" title="View PDF now"> 📕Clique aqui para ler</a>
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie um título de um ebook sobre o tema Códigos Python , o ebookk é do nicho de programação , o título deve ser épico e curto, e tenha uma temática de mistério no título , me liste 4 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em primeiros comandos de Python, listando e dando exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+
+
+Midjourney：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | Explorando o Código Oculto , person analyzing code on a digital dashboard , pixel art style --v 5.1 |
+
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via MidJourney
+
+## 📚 Materiais
+
+- Imagens utilizadas em `assets`
+- ebook gerado durante as aulas em `output`
+
+## 🛠️ Instruções de execução
+
+Utilizei os prompts acima , nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos power point, libreoffice , indesign para diagramação.
+
