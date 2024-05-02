@@ -37,6 +37,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # Projeto EBOOK Gerado por I.A.s
 
+![capa ebook](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/af640c3b-2111-4a37-8425-6f2cabdf1eb1)
+
 [Ebook.pptx](https://github.com/LabDevOps09/LabDevOps09/files/15190287/Ebook.pptx) 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -71,6 +73,7 @@ Midjourney：
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
+
 
 ## 🛠️ Instruções de execução
 
