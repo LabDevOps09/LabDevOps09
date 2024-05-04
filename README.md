@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Artig](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/be6e5c02-b23e-4283-af48-7fd8290208e8)
 
+https://web.dio.me/articles/explorando-os-blocos-de-construcao-uma-visao-detalhada-dos-elementos-fundamentais-do-python?back=%2Farticles&open-modal=true&page=1&order=oldest  📕Clique aqui para ler</a>
 
 # Projeto EBOOK Gerado por I.A.s
 
