@@ -41,6 +41,25 @@ You can click the Preview link to take a look at your changes.
 
 https://web.dio.me/articles/explorando-os-blocos-de-construcao-uma-visao-detalhada-dos-elementos-fundamentais-do-python?back=%2Farticles&open-modal=true&page=1&order=oldest  📕Clique aqui para ler</a>
 
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Python Elementos Básicos
+| conteúdo |  Definir o assunto, Título chamativo: headline, Imagem de capa chamativa, Blocos do artigo, Postar o artigo com um call to action |
+
+Lexica.art：
+
+No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+• Python
+
+## ✨ Features
+
+Conteúdo gerado via ChatGPT
+Imagens do acervo público geradas via Lexica.art
+
+
+
 # Projeto EBOOK Gerado por I.A.s
 
 ![capa ebook](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/af640c3b-2111-4a37-8425-6f2cabdf1eb1)
@@ -54,21 +73,20 @@ https://web.dio.me/articles/explorando-os-blocos-de-construcao-uma-visao-detalha
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
-
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema Códigos Python , o ebook é sobre programação , o título deve ser épico e curto, e tenha uma temática de mistério no título , me liste 4 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em primeiros comandos de Python, listando e dando exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de Explorando o Código Oculto:
+![image](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/14bcd140-c8e7-4aea-81a2-75c3da93e1e4), o ebookk é de programação Python, o título deve ser épico e curto, e tenha uma temática de Mistério no título, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em código Python, listando os principais conceitos fundamentais, com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Explorando o Código Oculto , person analyzing code on a digital dashboard , pixel art style --v 5.1 |
+| título |people analyzing codes on digital screen, pixel art style --v 5.1 |
 
 ## ✨ Features
 
@@ -80,9 +98,6 @@ Midjourney：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-
 ## 🛠️ Instruções de execução
 
-Utilizei os prompts acima , nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos power point, libreoffice , indesign para diagramação.
-
-
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
