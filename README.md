@@ -35,6 +35,11 @@
 LabDevOps09/LabDevOps09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Projeto Artigo Técnico Gerado por I.A.s
+
+![Artig](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/be6e5c02-b23e-4283-af48-7fd8290208e8)
+
+
 # Projeto EBOOK Gerado por I.A.s
 
 ![capa ebook](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/af640c3b-2111-4a37-8425-6f2cabdf1eb1)
