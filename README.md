@@ -36,15 +36,13 @@ LabDevOps09/LabDevOps09 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![capa podecast](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/e866c284-2a32-4407-980e-5aa31f117597)
+Podcast Dio.mp3 clique para ouvir
 
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
-
- <audio src="output/Podcast DIO.MP3" controls title="Podcast editado"></audio>
-</div> 
 
 ## 💻 Tecnologias utilizadas no projeto
 
