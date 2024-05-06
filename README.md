@@ -35,6 +35,46 @@
 LabDevOps09/LabDevOps09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![capa podecast](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/e866c284-2a32-4407-980e-5aa31f117597)
+
+# Projeto Podcast Gerado por I.A.s
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+
+ <audio src="output/Podcast DIO.MP3" controls title="Podcast editado"></audio>
+</div> 
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
+## ✨ Como foi feito ?
+
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Midjourney Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
+- Notion para gerar o podcast escrito
+
+## 📚 Materiais
+
+- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `midjourney`
+
 # Projeto Artigo Técnico Gerado por I.A.s
 
 ![Artig](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/be6e5c02-b23e-4283-af48-7fd8290208e8)
