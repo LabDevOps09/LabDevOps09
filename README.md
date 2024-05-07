@@ -35,6 +35,27 @@
 LabDevOps09/LabDevOps09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![avatar2](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/d0dd887b-27f7-408b-b51c-fc1ff0f360ba)
+
+# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+
+## 📒 Descrição
+Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- IA Generativa **[Capcut](https://www.capcut.com/pt-br/) para editação do video.
+
+## 🧐 Processo de Criação
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Capcut.
+
+## 🚀 Resultados
+O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+
+[LINK PARA O VÍDEO AQUI](avatar4.mp4)
+
 ![capa podecast](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/e866c284-2a32-4407-980e-5aa31f117597)
 
 <p align="center">
@@ -42,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div align="center">
-    <audio src="output/Podcast Dio.mp3" controls title="Podcast editado"></audio>
+    <audio src="Podcast Dio.mp3" controls title="Podcast editado"></audio>
 </div>
 
 
