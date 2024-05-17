@@ -36,7 +36,8 @@ LabDevOps09/LabDevOps09 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![avatar2](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/d0dd887b-27f7-408b-b51c-fc1ff0f360ba)
+![Avatar2](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/2097cde5-c3f6-46ad-9e09-326ba5008eaf)
+
 
 # Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
