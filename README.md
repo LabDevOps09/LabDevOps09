@@ -55,6 +55,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
 [LINK PARA O VÍDEO AQUI](avatar4.mp4)
+[LINK PARA O VÍDEO AQUI](Avatar2.mp4)
 
 ![capa podecast](https://github.com/LabDevOps09/LabDevOps09/assets/166772912/e866c284-2a32-4407-980e-5aa31f117597)
 
