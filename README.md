@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando DEvops e Cloud [Meu Projeto no Github](https://github.com/LabDevOps09/codeloud/devopslab09/blob/revert-5-revert-4-XX-CustomMessage/README.md)
 
-- 🌱 Estou atualmete aprendendo **Pynthon e Javascript**
+- 🌱 Estou atualmente aprendendo **Pynthon e Javascript**
 
 - 👨‍💻 Montei esse portifólio com alguns projetos que trabalhei quando era Proatec, Professora de tecnologia e Robótica [https://docs.google.com/presentation/d/1hreA2WlTscdMvefhV-WfKSUVsWuTB92omohjXxSAr5c/edit?usp=drivesdk](https://docs.google.com/presentation/d/1hreA2WlTscdMvefhV-WfKSUVsWuTB92omohjXxSAr5c/edit?usp=drivesdk)
 
