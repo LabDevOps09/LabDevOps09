@@ -9,7 +9,6 @@
 
 - 📝 Foi fundada por Mariana Dias e aqui estão as minhas habilidades [https://www.linkedin.com/in/mariana-dias-6183b5261](https://www.linkedin.com/in/mariana-dias-6183b5261)
 
-- 💬 Me pergunte sobre **Google Workspace, Microsoft Office e Classroom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
