@@ -8,6 +8,7 @@
 - 👨‍💻 Montei esse portifólio com alguns projetos que trabalhei quando era Proatec, Professora de tecnologia e Robótica [https://docs.google.com/presentation/d/1hreA2WlTscdMvefhV-WfKSUVsWuTB92omohjXxSAr5c/edit?usp=drivesdk](https://docs.google.com/presentation/d/1hreA2WlTscdMvefhV-WfKSUVsWuTB92omohjXxSAr5c/edit?usp=drivesdk)
 
 - 📝 Foi fundada por Mariana Dias e aqui estão as minhas habilidades [https://www.linkedin.com/in/mariana-dias-6183b5261](https://www.linkedin.com/in/mariana-dias-6183b5261)
+-  Meu perfil na plataforma DIO https://www.dio.me/users/marianalimadias
 
 
 <h3 align="left">Connect with me:</h3>
